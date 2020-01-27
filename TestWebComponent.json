@@ -71,7 +71,7 @@
             "{{#each $jason.posts }}": {
               "header": {
                 "type": "label",
-                "text": "{{'👍 ' + vote_count.toString() + '  ·  ' + '💬 ' + comment_count.toString()}}",
+                "text": "{{'�9�1 ' + vote_count.toString() + '  ��  ' + '�9�6 ' + comment_count.toString()}}",
                 "style": {
                   "background": "#230B0F",
                   "font": "HelveticaNeue-CondensedBold",
